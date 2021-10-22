@@ -4,7 +4,7 @@ creating a Marketing Mix Model (MMM) to determine market attribution on marketin
 
 # Introduction
 Marketing was always considered more of an art than a science. But with the emergence of online marketing and big data, marketing is more mathematical and methodical than ever. In fact, one of the biggest areas of opportunities for data science and machine learning applications is marketing!
-This article is going to focus on an extremely prevalent and powerful marketing science technique called Marketing Mix Modeling. This article will cover what it is, why it’s so useful, how to build one in Python, and most importantly, how to interpret it.
+This article is going to focus on an extremely prevalent and powerful marketing science technique called Marketing Mix Modeling. This project will cover what it is, why it’s so useful, how to build one in Python, and most importantly, how to interpret it.
 
 # Marketing Mix Model
 A Marketing Mix Model is a modeling technique used to determine market attribution, the estimated impact of each marketing channel that a given company is using.
